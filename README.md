@@ -19,8 +19,7 @@ The project includes data preprocessing, model training, evaluation, and predict
 ## Dataset
 
 The full dataset is large and is not stored directly in this GitHub repository.
-
-Full dataset source: https://www.kaggle.com/datasets/cyizhuo/stanford-cars-by-classes-folder
+Full dataset source from kaggle: https://www.kaggle.com/datasets/cyizhuo/stanford-cars-by-classes-folder
 
 ## Model Details & Performance
 Model: Resnet50
