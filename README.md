@@ -22,7 +22,12 @@ The full dataset is large and is not stored directly in this GitHub repository.
 
 Full dataset source: https://www.kaggle.com/datasets/cyizhuo/stanford-cars-by-classes-folder
 
-## Model Performance
+## Model Details & Performance
+Model: Resnet50
+Train: 80%
+Test:20%
+Optimiser: SGD
+Framework: Pytorch
 
 The model was evaluated on a validation set of 2,795 samples across 196 classes.
 
