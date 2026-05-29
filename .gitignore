@@ -43,3 +43,7 @@ checkpoints/
 # Allow small sample data for demo
 !sample_data/
 !sample_data/*.csv
+
+# Allow result metrics
+!outputs/
+!outputs/metrics.json
