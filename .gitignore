@@ -1,0 +1,45 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+
+# Environment / secret files
+.env
+*.env
+
+# Large datasets
+data/
+dataset/
+datasets/
+*.csv
+*.xlsx
+*.json
+*.parquet
+*.zip
+
+# Model files / weights
+*.h5
+*.keras
+*.pt
+*.pth
+*.pkl
+*.joblib
+
+# Logs and outputs
+logs/
+runs/
+checkpoints/
+
+# Allow small sample data for demo
+!sample_data/
+!sample_data/*.csv
