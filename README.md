@@ -1,4 +1,4 @@
-# RNN Model Project
+# RNN Classification Model Project - Computer Vision (CV)
 
 This project builds a Recurrent Neural Network model for car model recognition.
 
